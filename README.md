@@ -7,4 +7,11 @@ ___
 3. CMD
 4. Git Bash
 
+* Github
+* Git
+* CMD
+* Git Bash
+
+___
+___
 ___
